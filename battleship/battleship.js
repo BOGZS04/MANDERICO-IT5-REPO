@@ -32,6 +32,6 @@ while (isSunk == false) {
     }
 } 
 
-var stats = "You sank my battleship at: " + guesses + " guesses" + " And your accuracy is: " (3/guesses);
+var stats = "You sank my battleship at: " + guesses + " guesses" + " And your accuracy is: " + (3/guesses);
 
 alert(stats);
