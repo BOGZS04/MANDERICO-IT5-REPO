@@ -1,10 +1,10 @@
 function whatShallIWear(temp) {
     if (temp > 60) {
-        console.log("Wear a Jacket")
+        console.log("Wear a Jacket");
     } else if (temp < 70) {
-        console.log("Wear a Sweater")
+        console.log("Wear a Sweater");
     } else {
-        console.log("Wear a T-Shirt")
+        console.log("Wear a T-Shirt");
     } 
 }
 
